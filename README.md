@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vibe & Meme Magic
 
 A fun, interactive application for creating memes and taking personality quizzes, created by Chanchal Chaudhary (B.Tech Student at IGDTUW Delhi).
@@ -42,3 +43,6 @@ A fun, interactive application for creating memes and taking personality quizzes
 
 Chanchal Chaudhary  
 B.Tech Student at IGDTUW , Delhi 
+=======
+# Vibe-Craft
+>>>>>>> 9493834f556cbc984734cc6f9ea0f9a1c046f733
